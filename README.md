@@ -1,5 +1,6 @@
 # Netflix_clone
-#livelin:netflixclone-production-18e5.up.railway.app
+[clickhere](netflixclone-production-18e5.up.railway.app )
+
 This is a clone of the popular video streaming site Netflix. Built using Django and uses the requests library.
 
 ![](https://github.com/steve-njuguna-k/Django-Netflix-Clone/blob/master/Screenshot.PNG)
@@ -25,6 +26,7 @@ The application requires the following installations to operate:
 ## Project Setup Instructions
 1) git clone the repository 
 ```
+https://github.com/vcr11/Netflix_clone.git
 ```
 2. cd into Netflix_clone
 ```
