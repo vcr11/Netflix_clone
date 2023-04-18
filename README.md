@@ -1,5 +1,5 @@
 # Netflix_clone
-[clickhere](netflixclone-production-18e5.up.railway.app)
+<a href="netflixclone-production-18e5.up.railway.app"> clickhere<a/>
 
 This is a clone of the popular video streaming site Netflix. Built using Django and uses the requests library.
 
