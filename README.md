@@ -3,7 +3,6 @@
 
 This is a clone of the popular video streaming site Netflix. Built using Django and uses the requests library.
 
-![](https://github.com/steve-njuguna-k/Django-Netflix-Clone/blob/master/Screenshot.PNG)
 
 ## Requirements
 The user can perform the following functions:
